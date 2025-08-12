@@ -2,3 +2,9 @@
 p {
   padding: 20px;
 }
+
+button {
+  margin: 14px;
+  padding: 12px;
+  color: blue;
+}
